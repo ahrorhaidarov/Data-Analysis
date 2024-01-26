@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d46cb401-63fd-448f-a61a-4eadf969992f" name="Changes" comment="File created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tashkent-houses/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tashkent-houses/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,8 @@
       <workItem from="1706239934810" duration="523000" />
       <workItem from="1706240460236" duration="3131000" />
       <workItem from="1706243602222" duration="2698000" />
-      <workItem from="1706265545552" duration="607000" />
+      <workItem from="1706265545552" duration="676000" />
+      <workItem from="1706269846576" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="File created">
       <option name="closed" value="true" />
