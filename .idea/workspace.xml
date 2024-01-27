@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d46cb401-63fd-448f-a61a-4eadf969992f" name="Changes" comment="File created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/California-houses/.ipynb_checkpoints/main-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/California-houses/.ipynb_checkpoints/main-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/California-houses/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/California-houses/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,8 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -83,7 +86,11 @@
       <workItem from="1706240460236" duration="3131000" />
       <workItem from="1706243602222" duration="2698000" />
       <workItem from="1706265545552" duration="676000" />
-      <workItem from="1706269846576" duration="370000" />
+      <workItem from="1706269846576" duration="2346000" />
+      <workItem from="1706333195703" duration="18000" />
+      <workItem from="1706340751850" duration="1276000" />
+      <workItem from="1706357080108" duration="2043000" />
+      <workItem from="1706359138372" duration="1494000" />
     </task>
     <task id="LOCAL-00001" summary="File created">
       <option name="closed" value="true" />
